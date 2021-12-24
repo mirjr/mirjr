@@ -6,3 +6,8 @@
 <p style="text-align:center;">
   Github lastfull gif by <a href="https://github.com/mirrione" target="_blank">mirrione</a>
 </p>
+
+<br />
+
+## Snake
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
