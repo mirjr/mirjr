@@ -13,14 +13,33 @@
 
 <br />
 
-## Snake Game
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+***Software engineer & Bioinformatic***
 
-<!---
-[![](https://img.shields.io/badge/Made%20With-mirrione-lightgrey.svg?style=for-the-badge&logo=github)](https://github.com/Annihil/github-spray)  
-[![](https://i.imgur.com/2DrTn0Z.gif)](https://github.com/Annihil/github-spray)
+## About:
+A programmer in the field of frontend web and telegram bot production, has +1 years of experience. Specializes in project implementation and management.
+An inquisitive programmer thirsting to learn new knowledge ;)
 
-<p style="text-align:center;">
-  Github lastfull gif by <a href="https://github.com/mirrione" target="_blank">mirrione</a>
-</p>
---->
+## Links:
+<a href="https://ilosrim.uz" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+<a href="https://linkedin.com/in/ilosrim" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim's linkedin profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/ilosrim" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim's twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+<a href="https://t.me/ilosrim" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim's telegram profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/ilosrim" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim's twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+</a>
+<a href="https://dev.to/ilosrim" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim's dev-dot-to profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
+</a>
+
+<br />
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg) 
+
