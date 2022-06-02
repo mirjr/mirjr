@@ -13,8 +13,6 @@
 
 <br />
 
-***Software engineer & Bioinformatic***
-
 ## About:
 A programmer in the field of frontend web and telegram bot production, has +1 years of experience. Specializes in project implementation and management.
 An inquisitive programmer thirsting to learn new knowledge ;)
