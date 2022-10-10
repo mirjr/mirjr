@@ -1,6 +1,3 @@
----
-title: This is Mir JR readme file
----
 
 <h1 align="center">
   Welcome to <b><a href="https://github.com/mirjr">Mir JR</a></b>'s profile!
