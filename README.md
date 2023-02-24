@@ -15,8 +15,8 @@
 <br />
 
 ## Links:
-<a href="https://ilosrim.uz" target="_blank">
-   <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://biodasturchi.uz" target="_blank">
+   <img align="left" style="color:white" alt="biodasturchi.uz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://linkedin.com/in/ilosrim" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's linkedin profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
