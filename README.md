@@ -1,40 +1,58 @@
-<h1 align="center">
-  Welcome to <b><a href="https://github.com/mirjr">Mir JR.</a></b>'s profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p align="center">
-  <a href="https://github.com/mirjr?tab=stars">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mirjr"/></a>
-  <a href="https://github.com/mirjr?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mirjr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/mirjr">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=mirjr&style=for-the-badge"/></a>
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
 </p>
 
-<br />
+<p align="center">
+  <samp>
+    <a href="https://blog.mirrr.uz/">blog</a> .
+    <a href="https://mirrr.uz/">portfolio</a> .
+    <a href="https://www.linkedin.com/in/mirrrjr/">linkedin</a> .
+    <a href="https://bsky.app/profile/mirrr.uz">bsky</a> .
+    <a href="https://t.me/mirjr_chatbot">telegram</a>
+  </samp>
+</p>
 
-## Links:
-<a href="https://biodasturchi.uz" target="_blank">
-   <img align="left" style="color:white" alt="biodasturchi.uz" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Edge.svg" />
-</a>
-<a href="https://linkedin.com/in/mirjr" target="_blank">
-   <img align="left" style="color:white" alt="mirjr's linkedin profile" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
-</a>
-<a href="https://twitter.com/mirjr17" target="_blank">
-   <img align="left" style="color:white" alt="mirjr's twitter profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" />
-</a>
-</a>
-<a href="https://reddit.com/mirjr" target="_blank">
-   <img align="left" style="color:white" alt="mirjr's reddit profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Reddit.svg" />
-</a>
-<a href="https://t.me/mirjr" target="_blank">
-   <img align="left" style="color:white" alt="mirjr's telegram profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Telegram.svg" />
-</a>
-<a href="https://instagram.com/mirjr17" target="_blank">
-   <img align="left" style="color:white" alt="mirjr's twitter profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" />
-</a>
+<!--
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <th>Backend</th>
+    <th>DataBase</th>
+    <th>Extra</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" />
+      <img src="https://skillicons.dev/icons?i=php" />
+      <img src="https://skillicons.dev/icons?i=rust" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" />
+      <img src="https://skillicons.dev/icons?i=nestjs" />
+      <img src="https://skillicons.dev/icons?i=actix" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <img src="https://skillicons.dev/icons?i=postgresql" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" />
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=nix" />
+    </td>
+  </tr>
+</table>
+-->
 
-<br />
 
-<!-- ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)  -->
+<p align="center">
+    <a href="https://hits.sh/github.com/mirrrjr/">
+       <img alt="Hits" src="https://hits.sh/github.com/mirrrjr.svg?view=today-total&style=for-the-badge&label=mirrrjr's%20viewers%20(today%2Ftotal)&extraCount=9&color=007ec6&labelColor=000000"/>
+    </a>
+</p>
 
+
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
+</p>
